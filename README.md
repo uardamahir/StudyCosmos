@@ -26,7 +26,7 @@
 - saveStudyData() → saves data
 - todayStr() → formats current date
 
-##Streak Calculation
+## Streak Calculation
 - Iterates backwards from today
 - Stops when a "missed day" is found
 - Counts consecutive true values
